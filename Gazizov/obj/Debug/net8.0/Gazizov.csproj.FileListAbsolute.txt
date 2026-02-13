@@ -1,0 +1,14 @@
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\bin\Debug\net8.0\Gazizov.exe
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\bin\Debug\net8.0\Gazizov.deps.json
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\bin\Debug\net8.0\Gazizov.runtimeconfig.json
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\bin\Debug\net8.0\Gazizov.dll
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\bin\Debug\net8.0\Gazizov.pdb
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.AssemblyInfoInputs.cache
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.AssemblyInfo.cs
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.csproj.CoreCompileInputs.cache
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.dll
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\refint\Gazizov.dll
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.pdb
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\Gazizov.genruntimeconfig.cache
+C:\Users\GazizovKaA\source\repos\Gazizov\Gazizov\obj\Debug\net8.0\ref\Gazizov.dll
